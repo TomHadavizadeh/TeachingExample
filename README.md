@@ -45,3 +45,5 @@ This section would apply the solutions to the schrodinger equation to a range of
 - Simple model for Alpha decay: Radioactivate alpha decay can be modelled as an alpha particle sitting in a well, surrounded by a barrier created by the coulomb repulsion. Due to the shape of the potential, the amount of barrrier a particle has to tunnel through depends on it's energy. Students would try to estimate how the tunneling probability varies as a function of the alpha energy, and put this in the context of the huge differences in half life as a function of alpha energy.    
 
 {% include youtube.html id="EMq_QbyghMU" %}
+
+Test
