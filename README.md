@@ -1,6 +1,8 @@
 # The square barrier potential
 
-This repository contains examples of the content I would include in a second year quantum mechanics course. This specifically focuses on the problem of the square barrier potential.  I believe the material should be 
+This repository contains examples of the content I would include in a second year quantum mechanics course. This specifically focuses on the problem of the square barrier potential.  
+
+I believe the material should be 
 - **Modern:** utlise up-to-date tools such as python to enhance learning.
 - **Mixed media:** ensure that a range of materials are provided.
 - **Heuristic:** give students the change to actively learn
