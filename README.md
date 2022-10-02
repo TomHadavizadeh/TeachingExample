@@ -1,10 +1,13 @@
-# Teaching Example: The square barrier potential
+# The square barrier potential
 
-This repository contains examples of the content I would include in a second year quantum mechanics course. This specifically focuses on the problem of the square barrier potential.  
+This repository contains examples of the content I would include in a second year quantum mechanics course. This specifically focuses on the problem of the square barrier potential.  I believe the material should be 
+- **Modern:** utlise up-to-date tools such as python to enhance learning.
+- **Mixed media:** ensure that a range of materials are provided.
+- **Heuristic:** give students the change to actively learn
 
 ## Preparation work
 Students would be expected to prepare for their class ahead of time. This would include reading class notes, watching explantory videos and reading specific sections from course textbooks.
-For this example I have chosen to begin the notes with the slightly simpler problem of the step potential, before moving on the the square barrier potential. I felt this introduces some of the concepts in a simpler system, so that once the students learn about the square barrier potential they are more well prepared. 
+For this example I have chosen to begin the notes with the slightly simpler problem of the *step potential*, before moving on the the square barrier potential. I felt this introduces some of the concepts in a simpler system, so that once the students learn about the square barrier potential they are more well prepared. 
 
 
 ### 1. Course notes
@@ -27,11 +30,11 @@ The interactive session would be undertaken with a lecturer and
 First students would discuss how they got on with the questions in the course notes in small groups. They would be encoraged to take it in turns to explain to each other how they solved each question, and flag up any problems they encountered. The lecturer and teaching assisant would be on hand to assist. 
 
 ### 2. Interactive demonstration 
-Whilst the students will have seen the relevant course material at this point, the implications of the results may not have sunk in. In this section the students use an interactive display of the wave function solutions in a range of scenarios and are encoraged to explore how the solutions change in different regions of the paramter space. 
+Whilst the students will have seen the relevant course material at this point, the implications of the results may not have sunk in. In this section the students use an interactive display of the wave function solutions in a range of scenarios and are encoraged to explore how the solutions change in different regions of the parameter space. 
 
 I have created stand-alone interacive implementations of the solutions to the step potential and square barrier potential in a jupyter notebook. This notebook is also interspersed with questions that encorage the students to think about how the parameters affect the solutions.
+The Jupyter notebook can be found [here](https://github.com/TomHadavizadeh/TeachingExample/blob/master/Square_potential_barrier.ipynb) to run on your own computer or can be run online using binder:
 
-The interactive demonstration can be run directly in using binder or on your own computer: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TomHadavizadeh/TeachingExample/HEAD?labpath=Square_potential_barrier.ipynb)
 
 
