@@ -13,7 +13,7 @@ For this example I have chosen to begin the notes with the slightly simpler prob
 
 
 ### 1. Course notes
-An example of the course notes can be found here:
+An example of the course notes can be found [here](https://github.com/TomHadavizadeh/TeachingExample/raw/master/Notes.pdf).
 
 
 These aim to provide an overview of the relevant material that the students need in order to understand the topic. These are not intended to be completely comprehensive and should be complemented by reading specific chapters in the course textbooks. The notes are interspersed with a number of 'show that' questions that the students would complete as they go along. 
