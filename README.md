@@ -35,7 +35,7 @@ Examples can be found here:
 Students would be expected to read relevent sections in the course textbooks to help prepare them from the interactive session.
 
 ## Interactive session  
-The interactive session would be undertaken with a lecturer and 
+The interactive session would be undertaken with a lecturer and TA present. 
 
 ### 1. Small groups discussion
 First students would discuss how they got on with the questions in the course notes in small groups. They would be encoraged to take it in turns to explain to each other how they solved each question, and flag up any problems they encountered. The lecturer and teaching assisant would be on hand to assist. 
