@@ -53,11 +53,9 @@ The Jupyter notebook can be found [here](https://github.com/TomHadavizadeh/Teach
 
 This section would apply the solutions to the schrodinger equation to a range of more real-life scenarios to give context to the results.
 
-- Calculating the transmission probability of different mass particles through a fixed barrier width, e.g. electron vs. proton vs. macroscopic particle
-- Scanning tunnelling microscopes: 
-- Micro electronic circuits: at small scales circuits can be limited due to electrons tunnelling out of the circuits. This example would get students to calculate at what barrier widths this may become important.
-- Simple model for Alpha decay: Radioactivate alpha decay can be modelled as an alpha particle sitting in a well, surrounded by a barrier created by the coulomb repulsion. Due to the shape of the potential, the amount of barrrier a particle has to tunnel through depends on it's energy. Students would try to estimate how the tunneling probability varies as a function of the alpha energy, and put this in the context of the huge differences in half life as a function of alpha energy.    
-
-<!-- {% include youtube.html id="EMq_QbyghMU" %} -->
-
+- **Tunnelling probabilities:** Calculating the transmission probability of different mass particles through a fixed barrier width, e.g. electron vs. proton vs. macroscopic particle
+- **Scanning tunnelling microscopes:** these microscopes measure the current flowing when a conductive point is placed near a surface. Students would calculate the typical range of distances it might be effective over, given some value of the barrier potential and electron energy. 
+- **Micro electronic circuits:** at small scales circuits can be limited due to electrons tunnelling out of the circuits. This example would get students to calculate at what barrier widths this effect may become important.
+- **Simple model for Alpha decay:** Radioactivate alpha decay can be modelled as an alpha particle sitting in a well, surrounded by a barrier created by the coulomb repulsion. Due to the shape of the potential, the amount of barrrier a particle has to tunnel through depends on it's energy. Students would try to estimate how the tunneling probability varies as a function of the alpha energy, and put this in the context of the huge differences in half life as a function of alpha energy.    
+  - An extension would be to split up the barrier into several slices to make the problem more realistic. 
 
