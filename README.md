@@ -22,7 +22,13 @@ These aim to provide an overview of the relevant material that the students need
 The notes would be complemented by a series of short video recordings explaining the scenarios. By doing this I would hope to cater for students who prefer different learning styles.
 Examples can be found here: 
 
+#### The step potential 
 {% include googledrive.html id="1Hd7VVBoTSidZaURqUqa3Gv0nWKAU2EIN" %}
+
+#### The square barrier potential 
+{% include googledrive.html id="1Gd4NGcOsjSSZXIGl6DHdimrEUwi2xJGG" %}
+
+
 
 
 ### 3. Background reading 
