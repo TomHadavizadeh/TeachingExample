@@ -49,6 +49,10 @@ The Jupyter notebook can be found [here](https://github.com/TomHadavizadeh/Teach
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TomHadavizadeh/TeachingExample/HEAD?labpath=Square_potential_barrier.ipynb)
 
 
+![pic1](https://github.com/TomHadavizadeh/TeachingExample/raw/master/figures/step.png)
+
+![pic2](https://github.com/TomHadavizadeh/TeachingExample/raw/master/figures/square_barrier.png)
+
 ### 3. Applying the solutions to real problems
 
 This section would apply the solutions to the schrodinger equation to a range of more real-life scenarios to give context to the results.
