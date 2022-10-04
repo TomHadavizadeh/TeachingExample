@@ -51,7 +51,7 @@ The Jupyter notebook can be found [here](https://github.com/TomHadavizadeh/Teach
 
 ![pic1](https://github.com/TomHadavizadeh/TeachingExample/raw/master/figures/step.png)
 
-![pic2](https://github.com/TomHadavizadeh/TeachingExample/raw/master/figures/square_barrier.png)
+![pic2](https://github.com/TomHadavizadeh/TeachingExample/raw/master/figures/square_barrier2.png)
 
 ### 3. Applying the solutions to real problems
 
